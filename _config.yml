@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Sundayz"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Python & Django Developer | Bugbounty Hunter"
+  bio    : "Python & Django Developer \nBugbounty Hunter"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
