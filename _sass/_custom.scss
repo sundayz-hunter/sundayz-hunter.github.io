@@ -1,13 +1,26 @@
-/* type scale */
-$type-size-1 : 1.55em;  // ~24.8px (réduit de 30%)
-$type-size-2 : 1.23em;  // ~19.68px
-$type-size-3 : 1.02em;  // ~16.32px
-$type-size-4 : 0.81em;  // ~13px
-$type-size-5 : 0.63em;  // ~10.08px
-$type-size-6 : 0.46em;  // ~7.36px
-$type-size-7 : 0.42em;  // ~6.72px
-$type-size-8 : 0.38em;  // ~6px
+body {
+  font-size: 14px;
+}
 
+p {
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 1.8em;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+h4, h5, h6 {
+  font-size: 1.2em;
+}
 
 
 @import "minimal-mistakes";
