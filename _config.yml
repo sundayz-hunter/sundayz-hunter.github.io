@@ -29,7 +29,7 @@ search: true
 enable_copy_code_button: true
 
 timezone: Europe/Paris
-rss_feed: false
+rss_icon: false
 
 # Build settings
 markdown: kramdown
