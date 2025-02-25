@@ -1,6 +1,8 @@
 ---
 layout: single
 author_profile: true
+permalink: /projects/
+title: "Projects"
 ---
 
 ## 🤝 Open Source Contributions
