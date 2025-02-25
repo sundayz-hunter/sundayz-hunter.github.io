@@ -1,16 +1,12 @@
-html {
-    font-size: 18px;
-}
+/* type scale */
+$type-size-1 : 1.98em;  // ~31.64px (réduit de 10%)
+$type-size-2 : 1.58em;  // ~25.31px
+$type-size-3 : 1.26em;  // ~20.26px
+$type-size-4 : 1.01em;  // ~16.8px
+$type-size-5 : 0.81em;  // ~13.3px
+$type-size-6 : 0.60em;  // ~9.6px
+$type-size-7 : 0.56em;  // ~9.4px
+$type-size-8 : 0.50em;  // ~8px
 
-
-
-$type-size-1 : 2.2em;   // ~35.15px
-$type-size-2 : 1.75em;  // ~28.12px
-$type-size-3 : 1.4em;   // ~22.51px
-$type-size-4 : 1.12em;  // ~18px
-$type-size-5 : 0.9em;   // ~14.4px
-$type-size-6 : 0.67em;  // ~10.8px
-$type-size-7 : 0.62em;  // ~9.9px
-$type-size-8 : 0.56em;  // ~9px
 
 @import "minimal-mistakes";
